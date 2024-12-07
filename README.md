@@ -148,5 +148,8 @@ urlpatterns = [
 # OUTPUT:
 ![Screenshot 2024-12-06 231547](https://github.com/user-attachments/assets/c2146eef-67b7-449e-872b-10fa9e7eca13)
 
+![Screenshot 2024-12-07 110716](https://github.com/user-attachments/assets/316682ff-1e76-4d04-b7b8-86e5fb37b0eb)
+
+
 # RESULT:
 The program for implementing simple webserver is executed successfully.
